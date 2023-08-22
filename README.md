@@ -2,9 +2,9 @@
 
 
 - 👩🏽‍💻 I'm a software developer at @Mobidevke
+- 💙 My main focus is developing mobile apps for clients using Flutter
 - 🔭 Currently working on a cool project! 😄
 - 🌱 On an exciting journey of relearning Kotlin
-- 💙 My main focus is developing mobile apps for clients using Flutter
 - ⚡ I enjoy reading novels, listening to music and watching football and F1
   
 
@@ -20,6 +20,16 @@
 </div>
 
 
-Stats:
-<img src="https://komarev.com/ghpvc/?username=Tabithamutinda&style=flat-square&color=blue" alt=""/>
+### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+        
+
+
+
+
 
