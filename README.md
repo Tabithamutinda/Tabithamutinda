@@ -8,7 +8,7 @@ I am Tabby.
 - 💙 My main focus is developing mobile apps for clients using Flutter
 - 🔭 Currently working on a cool project! 😄
 - 🌱 On an exciting journey of relearning Kotlin
-- ⚡ I enjoy reading novels, listening to music and watching football and F1
+- ⚡ I enjoy reading novels, listening to music, watching football and F1
   
 ---
 
