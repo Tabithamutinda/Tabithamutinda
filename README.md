@@ -1,14 +1,18 @@
-### Hi there 👋 I am Tabby
+### Hi there 👋 
+I am Tabby, a software developer who is focused on developing mobile applications.
 
+---
 
+### 📫 How to reach me:
 - 👩🏽‍💻 I'm a software developer at @Mobidevke
 - 💙 My main focus is developing mobile apps for clients using Flutter
 - 🔭 Currently working on a cool project! 😄
 - 🌱 On an exciting journey of relearning Kotlin
 - ⚡ I enjoy reading novels, listening to music and watching football and F1
   
+---
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tabitha-mutinda/">
@@ -19,6 +23,7 @@
   </a>
 </div>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -31,6 +36,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tabithamutinda&theme=dark&background=000000)](https://git.io/streak-stats)
