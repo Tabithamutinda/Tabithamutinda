@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Tabby
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+- 👩🏽‍💻 I'm a software developer at @Mobidevke
+- 🔭 Currently working on a cool project! 😄
+- 🌱 On an exciting journey of relearning Kotlin
+- 💙 My main focus is developing mobile apps for clients using Flutter
+  
 
 <!--
 **Tabithamutinda/Tabithamutinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
