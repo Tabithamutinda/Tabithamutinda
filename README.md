@@ -1,26 +1,25 @@
 ### Hi there 👋 I am Tabby
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 - 👩🏽‍💻 I'm a software developer at @Mobidevke
 - 🔭 Currently working on a cool project! 😄
 - 🌱 On an exciting journey of relearning Kotlin
 - 💙 My main focus is developing mobile apps for clients using Flutter
+- ⚡ I enjoy reading novels, listening to music and watching football and F1
   
 
-<!--
-**Tabithamutinda/Tabithamutinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me::
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tabitha-mutinda/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/TabithaMutinda4">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Stats:
+<img src="https://komarev.com/ghpvc/?username=Tabithamutinda&style=flat-square&color=blue" alt=""/>
+
