@@ -41,7 +41,7 @@ I am Tabby.
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tabithamutinda&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabithamutinda&layout=compacttheme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabithamutinda&layout=compact&theme=dark&background=000000)
 
 
 
