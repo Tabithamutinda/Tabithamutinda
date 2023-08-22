@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Tabby, a software developer who is focused on developing mobile applications.
+I am Tabby.
 
 ---
 
