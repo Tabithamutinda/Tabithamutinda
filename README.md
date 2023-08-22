@@ -3,7 +3,7 @@ I am Tabby.
 
 ---
 
-### 📫 How to reach me:
+### :woman_technologist: About Me :
 - 👩🏽‍💻 I'm a software developer at @Mobidevke
 - 💙 My main focus is developing mobile apps for clients using Flutter
 - 🔭 Currently working on a cool project! 😄
