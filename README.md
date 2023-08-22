@@ -31,8 +31,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 
+
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Tabithamutinda
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tabithamutinda&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
         
 
