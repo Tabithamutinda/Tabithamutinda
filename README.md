@@ -7,7 +7,6 @@ I am Tabby.
 - 👩🏽‍💻 I'm a software developer at @Mobidevke
 - 💙 My main focus is developing mobile apps for clients using Flutter
 - ✏️ Scribbling Flutter Tales on <a href ="https://medium.com/@GeekoutwithTabby">Medium</a>
-- Medium https://medium.com/@GeekoutwithTabby
 - 🔭 Currently working on a cool project! 😄
 - 🌱 On an exciting journey of relearning Kotlin
 - ⚡ I enjoy reading novels, listening to music, watching football and F1
