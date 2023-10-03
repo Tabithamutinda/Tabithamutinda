@@ -6,7 +6,7 @@ I am Tabby.
 ### :woman_technologist: About Me :
 - 👩🏽‍💻 I'm a software developer at @Mobidevke
 - 💙 My main focus is developing mobile apps for clients using Flutter
-- 📝 Writes on Medium @https://medium.com/@GeekoutwithTabby
+- 📝 Writes on Medium at https://medium.com/@GeekoutwithTabby
 - 🔭 Currently working on a cool project! 😄
 - 🌱 On an exciting journey of relearning Kotlin
 - ⚡ I enjoy reading novels, listening to music, watching football and F1
