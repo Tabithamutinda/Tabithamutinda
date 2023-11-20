@@ -4,7 +4,7 @@ I am Tabby.
 ---
 
 ### :woman_technologist: About Me :
-- 👩🏽‍💻 I'm a software developer at @Mobidevke
+- 👩🏽‍💻 I'm a Flutter Developer.
 - 💙 My main focus is developing mobile apps for clients using Flutter
 - ✏️ Scribbling Flutter Tales on <a href ="https://medium.com/@GeekoutwithTabby">Medium</a>
 - 🔭 Currently working on a cool project! 😄
